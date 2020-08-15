@@ -1,7 +1,8 @@
 ---
 home: true
+heroImage: /home.jpg
 actionText: 开始了解 →
-actionLink: /blog/
+actionLink: /repository/
 
-footer: MIT Licensed | Copyright © 2020-heyLiup
+footer: MIT Licensed | Copyright © 2018-PanJiaChen
 ---

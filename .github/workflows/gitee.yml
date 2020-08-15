@@ -1,0 +1,17 @@
+on:
+  push:
+    branches:
+      - master
+      - my-blog
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync to Gitee 💕
+        uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: 'git@github.com:PanJiaChen/awesome-bookmarks.git'
+          destination-repo: 'git@gitee.com:panjiachen/awesome-bookmarks.git'
