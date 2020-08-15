@@ -18,7 +18,7 @@
 
 你能尝试使用一趟扫描实现吗？
 
-[链接]：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list
+[链接]：https://leetcodes-cn.com/problems/remove-nth-node-from-end-of-list
 
 ```
 
