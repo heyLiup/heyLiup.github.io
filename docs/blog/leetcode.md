@@ -1,4 +1,4 @@
-# leetcode 记录
+# leetcode 记录1
 
 ## 链表
 
