@@ -1,5 +1,12 @@
 name: Deploy GitHub Pages
 
+# 触发条件：在 push 到 master 分支后
+on:
+  push:
+    branches:
+      - master
+      - my-blog
+
 # 任务
 jobs:
   build-and-deploy:
