@@ -8,6 +8,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
+    "deploy": " bash deploy.sh",
     "lint": "prettier --write 'docs/**/*.md'",
     "release": "node scripts/release.js"
   },
