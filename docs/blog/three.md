@@ -42,8 +42,8 @@ requestAnimationFrame 执行的时间间隔不一致，可使用 Clock来准确�
 
 ```
 
-<!-- 
+
 !!!include(docs/blog/three/tips.md)!!!
 !!!include(docs/blog/three/question.md)!!!
-!!!include(docs/blog/three/plugins.md)!!! -->
+!!!include(docs/blog/three/plugins.md)!!!
 
