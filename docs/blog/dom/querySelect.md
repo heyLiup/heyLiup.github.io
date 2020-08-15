@@ -1,5 +1,5 @@
 
-## querySelectorAll 和 getElement
+## querySelectorAll 和 getElement 区别
 
 - querySelectorAll
 ```js
