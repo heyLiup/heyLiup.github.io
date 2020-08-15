@@ -3,7 +3,7 @@ const utils = require('./utils')
 module.exports = {
   title: 'heyLiup blog',
   description: '个人收藏夹',
-  base: './',
+  base: '/',
   head: [
     [
       'link',
@@ -17,7 +17,7 @@ module.exports = {
     nav: [
       {
         text: 'Blog',
-        link: './blog/'
+        link: '/blog/'
       }
     ],
     sidebar: utils.inferSiderbars(),
