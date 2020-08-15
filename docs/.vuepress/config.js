@@ -22,7 +22,7 @@ module.exports = {
     ],
     sidebar: utils.inferSiderbars(),
     lastUpdated: '上次更新',
-    repo: 'heyLiup',
+    repo: 'https://github.com/heyLiup/heyLiup.github.io',
     editLinks: false,
     docsDir: 'docs',
     sidebarDepth: 3
